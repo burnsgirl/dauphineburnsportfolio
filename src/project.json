@@ -8,11 +8,36 @@
         "github": "https://github.com/burnsgirl/Recipe-Gram"
     },
     {
+        "id":6,
+        "mockup": "HikeTunez",
+        "overview": "HikeTunez allows you to search for places to hike in your area and customizes a playlist to the difficulty of the hike.",
+        "deployed": "https://donchiz77.github.io/Hiketunez",
+        "github": "https://github.com/burnsgirl/Hiketunez"
+    },
+    {
         "id":5,
         "mockup": "Fitness Tracker",
         "overview": "This site was developed so you can keep track of your exercises. It will help you stay on track of how you are doing time wise and weight wise.",
         "deployed": "https://fitnesstracker20212021.herokuapp.com/?id=612ee156e3240b0016a40960",
         "github": "https://github.com/burnsgirl/Fitness-Tracker"
+    },
+    {
+    
+        "id":3,
+        "mockup": "Directory",
+        "alt": "Something",
+        "overview": "This application is used for viewing your employees. You can also access general information about each employee. Use the filter option to sort the employees by age or by the country they reside in. You can also sort them in alphabetical order by last name.",
+        "deployed": "https://burnsgirl.github.io/Employee-Directory-2/",
+        "github": "https://github.com/burnsgirl/Employee-Directory-2"
+
+    },
+    {
+        "id":2,
+        "mockup": "Budget Tracker",
+        "alt": "Something",
+        "overview": "Budget Tracker is used for keeping a budget during your busy lifestyle. Whether you are connected to the internet or offline, you can have an up-to-date spreadsheet. Enter your deposits and withdraws to stay on top of your money.",
+        "deployed": "https://budgettracker20212021.herokuapp.com/",
+        "github": "https://github.com/burnsgirl/Budget-Tracker"
     },
     {
         "id":4,
@@ -21,31 +46,6 @@
         "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
         "deployed": "https://burnsgirl.github.io/Work-Schedule/",
         "github": "https://github.com/burnsgirl/Work-Schedule"
-    },
-    {
-    
-        "id":2,
-        "mockup": "Note Taker",
-        "alt": "Something",
-        "overview": "Keep track of things you need to do with this list application that saves the information locally.",
-        "deployed": "https://voyage-monsieur-93664.herokuapp.com/",
-        "github": "https://github.com/burnsgirl/Note-Taker"
-
-    },
-    {
-        "id":6,
-        "mockup": "HikeTunez",
-        "overview": "HikeTunez allows you to search for places to hike in your area and customizes a playlist to the difficulty of the hike.",
-        "deployed": "https://donchiz77.github.io/Hiketunez",
-        "github": "https://github.com/burnsgirl/Hiketunez"
-    },
-    {
-        "id":3,
-        "mockup": "Budget Tracker",
-        "alt": "Something",
-        "overview": "Budget Tracker is used for keeping a budget during your busy lifestyle. Whether you are connected to the internet or offline, you can have an up-to-date spreadsheet. Enter your deposits and withdraws to stay on top of your money.",
-        "deployed": "https://budgettracker20212021.herokuapp.com/",
-        "github": "https://github.com/burnsgirl/Budget-Tracker"
-    }
+    }  
     
 ]

@@ -163,7 +163,7 @@ button:hover {
 #deployed1 {
     position: relative;
     top: -372px;
-    left: -11px;
+    left: -8px;
     color: white;
     border-color:white;
 }
@@ -171,7 +171,7 @@ button:hover {
 #github1 {
     position: relative;
     top: -445px;
-    left: 153px;
+    left: 157px;
     color: white;
     border-color:white;
 }
@@ -217,7 +217,7 @@ button:hover {
 #deployed5 {
     position: relative;
     top: -372px;
-    left: -11px;
+    left: -8px;
     color: white;
     border-color:white;
 }
@@ -225,63 +225,63 @@ button:hover {
 #github5 {
     position: relative;
     top: -445px;
-    left: 153px;
+    left: 157px;
     color: white;
     border-color:white;
 }
 
 /* Work Schedule */
 #background4 {
-    background-image: url("./assetspic/workschedule1.png");
+    background-image: url("./assetspic/worksched.png");
     background-size: cover;
 }
 
 #overview4 {  
     font-size: 20px;
-color: white;
-position: relative;
-left: 214px;
-top: 222px;
-width: 300px;
+    color: white;
+    position: relative;
+    left: -296px;
+    top: 222px;
+    width: 300px;
 }
 
 #mockup4 {
-font-weight: bold;
-font-family: 'Roboto', sans-serif;
-color: white;
-text-align: center;
-height: 0px;
-margin: 0px;
-font-size: 50px;
-position: relative;
-left: 416px;
-top: -479px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    height: 0px;
+    margin: 0px;
+    font-size: 50px;
+    position: relative;
+    left: -100px;
+    top: -479px;
 }
 
 #light-background4 {
-height: 490px;
-width: 402px;
-position: relative;
-left: 566px;
-top: 58px;
-background-color: #616161;
-opacity: .6;
+    height: 490px;
+    width: 402px;
+    position: relative;
+    left: 55px;
+    top: 58px;
+    background-color: #616161;
+    opacity: .6;
 }
 
 #deployed4 {
-position: relative;
-top: -372px;
-left: -11px;
-color: white;
-border-color:white;
+    position: relative;
+    top: -372px;
+    left: -522px;
+    color: white;
+    border-color:white;
 }
 
 #github4 {
-position: relative;
-top: -445px;
-left: 153px;
-color: white;
-border-color:white;
+    position: relative;
+    top: -445px;
+    left: -355px;
+    color: white;
+    border-color:white;
 }
 
 /* HikeTunez */
@@ -379,7 +379,7 @@ opacity: .6;
 #deployed2 {
 position: relative;
 top: -372px;
-left: -11px;
+left: -8px;
 color: white;
 border-color:white;
 }
@@ -387,63 +387,64 @@ border-color:white;
 #github2 {
 position: relative;
 top: -445px;
-left: 153px;
+left: 157px;
 color: white;
 border-color:white;
 }
 
 /* Employee Directory */
 #background3 {
-    background-image: url("./assetspic/workschedule1.png");
+    background-image: url("./assetspic/emplodir.png");
     background-size: cover;
+    background-position: center;
 }
 
 #overview3 {  
     font-size: 20px;
-color: white;
-position: relative;
-left: 214px;
-top: 222px;
-width: 300px;
+    color: white;
+    position: relative;
+    left: -296px;
+    top: 183px;
+    width: 300px;
 }
 
 #mockup3 {
-font-weight: bold;
-font-family: 'Roboto', sans-serif;
-color: white;
-text-align: center;
-height: 0px;
-margin: 0px;
-font-size: 50px;
-position: relative;
-left: 416px;
-top: -479px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    height: 0px;
+    margin: 0px;
+    font-size: 50px;
+    position: relative;
+    left: -100px;
+    top: -504px;
 }
 
 #light-background3 {
-height: 490px;
-width: 402px;
-position: relative;
-left: 566px;
-top: 58px;
-background-color: #616161;
-opacity: .6;
+    height: 490px;
+    width: 402px;
+    position: relative;
+    left: 55px;
+    top: 58px;
+    background-color: #616161;
+    opacity: .6;
 }
 
 #deployed3 {
-position: relative;
-top: -372px;
-left: -11px;
-color: white;
-border-color:white;
+    position: relative;
+    top: -372px;
+    left: -522px;
+    color: white;
+    border-color:white;
 }
 
 #github3 {
-position: relative;
-top: -445px;
-left: 153px;
-color: white;
-border-color:white;
+    position: relative;
+    top: -445px;
+    left: -355px;
+    color: white;
+    border-color:white;
 }
 
 
