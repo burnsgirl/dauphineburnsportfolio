@@ -1,0 +1,840 @@
+/* Body */
+
+.container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:0px 80px;
+} 
+
+/* Cards */
+.card {
+    height:600px;
+    width:1000px;
+    margin: 30px 0px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 25px;
+}
+
+/* Overview for cards */
+.overview {
+    width: 190px;
+    height:590px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(95, 93, 93);
+    text-align:center;
+    justify-content: center;
+    align-items:center;
+}
+
+.mockup h1 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(95, 93, 93);
+    text-align: center;
+    height:0px;
+    margin: 0px;
+    font-size: 50px;
+    padding-top:30px;
+}
+
+.mockup {
+    width: 700px;
+    height:600px;
+    border: none;
+}
+
+/* CodeQuiz Mockup */
+
+#mockup3 {
+    color:white;
+}
+
+#mockup2 {
+    color:white;
+}
+
+#mockup5 {
+    color:white;
+}
+
+.links {
+    margin-top: 175px;
+    margin-left: 600px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Backgrounds */
+
+#background1 {
+    background: #6aeeb0; /* Old browsers */
+    background: -moz-linear-gradient(left,  #6aeeb0 0%, #7ff3b5 40%, #a8eecd 59%, #a8eecd 59%, #7ff3b5 71%, #b6eccf 87%, #8bf3ba 99%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #6aeeb0 0%,#7ff3b5 40%,#a8eecd 59%,#a8eecd 59%,#7ff3b5 71%,#b6eccf 87%,#8bf3ba 99%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #6aeeb0 0%,#7ff3b5 40%,#a8eecd 59%,#a8eecd 59%,#7ff3b5 71%,#b6eccf 87%,#8bf3ba 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6aeeb0', endColorstr='#8bf3ba',GradientType=1 ); /* IE6-9 */
+    
+}
+
+#background2 {
+    background: #45c0ae; /* Old browsers */
+background: -moz-linear-gradient(left,  #45c0ae 1%, #23ddc1 47%, #6cc9a9 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #45c0ae 1%,#23ddc1 47%,#6cc9a9 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #45c0ae 1%,#23ddc1 47%,#6cc9a9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45c0ae', endColorstr='#6cc9a9',GradientType=1 ); /* IE6-9 */
+}
+
+#background3 {
+    background: #1e6f9a; /* Old browsers */
+background: -moz-linear-gradient(left,  #1e6f9a 0%, #6fb9db 51%, #2aaad8 75%, #7ecee8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #1e6f9a 0%,#6fb9db 51%,#2aaad8 75%,#7ecee8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #1e6f9a 0%,#6fb9db 51%,#2aaad8 75%,#7ecee8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e6f9a', endColorstr='#7ecee8',GradientType=1 ); /* IE6-9 */
+}
+
+#background4 {
+    background: #28a5cc; /* Old browsers */
+background: -moz-linear-gradient(left,  #28a5cc 45%, #2cbeea 62%, #25c1ed 66%, #77c2dd 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #28a5cc 45%,#2cbeea 62%,#25c1ed 66%,#77c2dd 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #28a5cc 45%,#2cbeea 62%,#25c1ed 66%,#77c2dd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28a5cc', endColorstr='#77c2dd',GradientType=1 ); /* IE6-9 */
+}
+
+#background5 {
+    background: #a84da6;
+background: -moz-linear-gradient(left,  #a84da6 0%, #dc81e8 32%, #d87ce2 55%, #b01ed8 95%, #a84da6 100%);
+background: -webkit-linear-gradient(left,  #a84da6 0%,#dc81e8 32%,#d87ce2 55%,#b01ed8 95%,#a84da6 100%);
+background: linear-gradient(to right,  #a84da6 0%,#dc81e8 32%,#d87ce2 55%,#b01ed8 95%,#a84da6 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a84da6', endColorstr='#a84da6',GradientType=1 );
+
+}
+
+#background6 {
+    background: #93861d;
+background: -moz-linear-gradient(left,  #93861d 0%, #c9ce92 41%, #c9ce92 58%, #a1a33e 100%, #bfc66b 100%);
+background: -webkit-linear-gradient(left,  #93861d 0%,#c9ce92 41%,#c9ce92 58%,#a1a33e 100%,#bfc66b 100%);
+background: linear-gradient(to right,  #93861d 0%,#c9ce92 41%,#c9ce92 58%,#a1a33e 100%,#bfc66b 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93861d', endColorstr='#bfc66b',GradientType=1 );
+
+}
+
+/* Individual Overviews */
+#overview1 {
+    padding-top: 170px;
+    padding-left: 30px;
+}
+
+#overview2 {
+    padding-top: 235px;
+    padding-left: 30px;
+    color:white;
+    
+}
+
+#overview3 {
+    padding-top: 222px;
+    padding-left: 30px;
+    color:rgb(255, 254, 254);
+}
+
+#overview4 {
+    padding-top: 196px;
+    padding-left: 30px;
+}
+
+#overview5 {
+    padding-top: 196px;
+    padding-left: 30px;
+    color:white;
+}
+
+#overview6 {
+    padding-top: 240px;
+    padding-left: 30px;
+}
+
+
+
+/* Button */
+
+button {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    margin:10px;
+    padding: 0.7rem 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(95, 93, 93);
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+    border-color: rgb(95, 93, 93);
+    background-color:transparent;
+    transition: transform 0.2s cubic-bezier(0.235, 0, 0.05, 0.95);
+  }
+  
+button:hover {
+      transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
+}
+
+#deployed3 {
+    color:white;
+    border-color: white;
+    position: relative;
+    top: -572px;
+}
+
+#github3 {
+    color:white;
+    border-color: white;
+    position: relative;
+    top: -572px;
+}
+
+#deployed2 {
+    color:white;
+    border-color:white;
+}
+
+#github2 {
+    color:white;
+    border-color:white;
+}
+
+#deployed5 {
+    color:white;
+    border-color:white;
+}
+
+#github5 {
+    color:white;
+    border-color:white;
+}
+/* images */
+
+#img1 {
+    height:600px;
+    width:1000px;
+    position: absolute;
+}
+
+#img2 {
+    height:600px;
+    width:700px;
+    position: absolute;
+}
+
+#img3 {
+    height: 600px;
+    width: 850px;
+    position: relative;
+    left: -98px;
+}
+
+#img4 {
+    height: 500px;
+    width: 750px;
+    position: absolute;
+    margin-top:40px;
+    margin-left: -22px;
+}
+
+#img5 {
+    height: 600px;
+    width: 550px;
+    position: absolute;
+    margin-top: -27px;
+    margin-left: 54px;
+}
+
+#img6 {
+    height: 530px;
+    width: 370px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 141px;
+}
+
+
+  
+    @media screen and (max-width:1050px) {
+    /* Body */
+    .container {
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    } 
+
+    /* Cards */
+    .card {
+        height: 400px;
+        width: 800px;
+        margin: 20px 20px;
+    }
+
+    .overview {
+        height:600px;
+        width:150px;
+        text-align: center;
+    }
+
+    .overview p {
+        position: relative;
+        top: -100px;
+    }
+
+    .mockup {
+        width:500px;
+    }
+
+    .links {
+        position: relative;
+        right:145px;
+
+    }
+
+    /* recipegram */
+    #img1 {
+        height: 350px;
+        width: 350px;
+        position: relative;
+        left: 71px;
+        top: 32px;
+    }
+
+    #deployed1 {
+        position: relative;
+        left: -35px;
+        top: -438px;
+    }
+
+    #github1 {
+        position: relative;
+        left: -35px;
+        top: -424px;
+    }
+
+    /* Code Quiz */
+
+    #img3 {
+        height: 400px;
+        width: 600px;
+        position: relative;
+        left: -47px;
+    }
+
+    #deployed3 {
+        position: relative;
+        left: -35px;
+        top: -480px;
+    }
+
+    #github3 {
+        position: relative;
+        left: -35px;
+        top: -461px;
+    }
+
+    /* Note Taker */
+
+    #img2 {
+        height:400px;
+        width:500px;
+        position: absolute;
+    }
+
+    #deployed2 {
+        position: relative;
+        left: -35px;
+        top: -86px;
+    }
+
+    #github2 {
+        position: relative;
+        left: -35px;
+        top: -64px;
+    }
+
+    /* Work Schedule */
+
+    #deployed4 {
+        position: relative;
+        left: -35px;
+        top: -86px;
+    }
+
+    #github4 {
+        position: relative;
+        left: -35px;
+        top: -64px;
+    }
+
+    #img4 {
+        height: 300px;
+        width: 450px;
+        position: absolute;
+        margin-top: 57px;
+        margin-left: 26px;
+    }
+
+    /* Fitness */
+
+    #img5 {
+        position: relative;
+        height: 400px;
+        left: 2px;
+        top: 27px;
+        width: 350px;
+    }
+
+    #github5 {
+        position: relative;
+        left: -41px;
+        top: -447px;
+    }
+
+    #deployed5 {
+        position: relative;
+        left: -41px;
+        top: -447px;
+    }
+
+    /* hiketunez */
+
+
+    #img6 {
+        position: relative;
+        height: 300px;
+        left: 2px;
+        top: 16px;
+        width: 200px;
+    }
+
+    #github6 {
+        position: relative;
+        left: -41px;
+        top: -410px;
+    }
+
+    #deployed6 {
+        position: relative;
+        left: -41px;
+        top: -435px;
+    }
+
+    #overview6 {
+        padding-top: 208px;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .container {
+        margin: 0px 20px;
+    }
+
+    /* Cards */
+    .card {
+        height: 460px;
+        width: 460px;
+        margin: 20px 20px;
+    }
+
+    .mockup h1 {
+        position: relative;
+        top:-130px;
+        left:75px;
+        font-size:40px;
+    }
+
+    .overview {
+        height:150px;
+        width:460px;
+        text-align: center;
+    }
+
+    .overview p {
+        position: relative;
+        top: -130px;
+        left:-15px;
+    }
+
+    .mockup {
+        width: 300px;
+    }
+
+    /* RecipeGram */
+    #img1 {
+        height: 250px;
+        width: 250px;
+        position: relative;
+        top: -23px;
+        left: 103px;
+    }
+
+    #overview1 {
+        top:-65px;
+    }
+
+    #deployed1 {
+        position: relative;
+        left: -397px;
+        top: -231px;
+    }
+
+    #github1 {
+        position: relative;
+        left: -246px;
+        top: -304px;
+    }
+    /* Code Quiz */
+
+    #img3 {
+        height: 250px;
+        width: 400px;
+        position: relative;
+        left: 25px;
+        top: -46px;
+    }
+
+    #deployed3 {
+        position: relative;
+        left: -397px;
+        top: -243px;
+    }
+
+    #github3 {
+        position: relative;
+        left: -246px;
+        top: -316px;
+    }
+
+    /* Note Taker */
+    #img2 {
+        height: 300px;
+        width: 350px;
+        position: relative;
+        left: 54px;
+        top: -76px;
+    }
+
+    #deployed2 {
+        position: relative;
+        left: -397px;
+        top: -291px;
+    }
+
+    #github2 {
+        position: relative;
+        left: -246px;
+        top: -364px;
+    }
+
+/* Work Schedule */
+    #img4 {
+        height: 200px;
+        width: 300px;
+        position: relative;
+        top: -68px;
+        left: 57px;
+    }
+
+    #overview4 {
+        position: relative;
+        top:-100px;
+    }
+
+    #deployed4 {
+        position: relative;
+        left: -397px;
+        top: -251px;
+    }
+
+    #github4 {
+        position: relative;
+        left: -246px;
+        top: -324px;
+    }
+
+    /* Fitness */
+
+    #img5 {
+        position: relative;
+        height: 400px;
+        left: -120px;
+        top: -54px;
+        width: 350px;
+    }
+
+    #github5 {
+        position: relative;
+        left: -230px;
+        top: -482px;
+    }
+
+    #deployed5 {
+        position: relative;
+        left: -230px;
+        top: -495px;
+    }
+
+    #overview5 {
+        padding-top: 217px;
+        padding-left: 30px;
+    }
+
+    /* hiketunez */
+
+
+    #img6 {
+        position: relative;
+        height: 300px;
+        left: -123px;
+        top: -64px;
+        width: 200px
+    }
+
+    #github6 {
+        position: relative;
+        left: -230px;
+        top: -482px;
+    }
+
+    #deployed6 {
+        position: relative;
+        left: -230px;
+        top: -495px;
+    }
+
+    #overview6 {
+        padding-top: 224px;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .container {
+        margin: 0px 20px;
+    }
+
+    /* Cards */
+    .card {
+        height: 600px;
+        width: 300px;
+        margin: 30px;
+    }
+
+    .mockup h1 {
+        top: -143px;
+        left: 4px;
+        font-size:35px;
+    }
+
+    #mockup3 {
+        color:rgb(95, 93, 93);
+    }
+    
+    #mockup2 {
+        color:rgb(95, 93, 93);
+    }
+    
+    #mockup5 {
+        color:rgb(95, 93, 93);
+    }
+
+    .overview {
+        height:150px;
+        width:460px;
+        text-align: center;
+    }
+
+    .overview p {
+        position: relative;
+        top: -130px;
+        left:-15px;
+    }
+
+    .mockup {
+        width: 300px;
+    }
+
+    /* RecipeGram */
+
+    #background1 {
+        background: none;
+        border:5px solid #6aeeb0; /* Old browsers */
+    }
+
+    #img1 {
+        top: 23px;
+        left: 26px;
+    }
+
+    #overview1 {
+        top:-65px;
+    }
+
+    #deployed1 {
+        left: -405px;
+        top: -161px;
+    }
+
+    #github1 {
+        left: -406px;
+        top: -167px;
+    }
+    /* Code Quiz */
+    #background3 {
+        background: none;
+        border:5px solid #1e6f9a; /* Old browsers */
+    }
+
+    #img3 {
+        height: 240px;
+        width: 390px;
+        position: relative;
+        left: -40px;
+        top: -24px;
+    }
+
+    #deployed3 {
+        left: -397px;
+        top: -182px;
+        color:rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93)
+    }
+
+    #github3 {
+        left: -397px;
+        top: -173px;
+        color:rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93)
+    }
+
+    #overview3 {
+        color:rgb(95, 93, 93);
+    }
+
+    /* Note Taker */
+    #background2 {
+        background: none;
+        border:5px solid #45c0ae; /* Old browsers */
+    }
+
+    #img2 {
+        left: -28px;
+        top: -32px;
+    }
+
+    #deployed2 {
+        color: rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93);
+        left: -403px;
+        top: -226px;
+        
+    }
+
+    #github2 {
+        color: rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93);
+        left: -403px;
+        top: -230px;
+    }
+
+    #overview2 {
+        color:rgb(95, 93, 93);
+    }
+
+/* Work Schedule */
+    #background4 {
+        background: none;
+        border:5px solid #28a5cc; /* Old browsers */
+    }
+    #img4 {
+        top: -22px;
+        left: -26px;
+    }
+
+    #overview4 {
+        position: relative;
+        top:-100px;
+    }
+
+    #deployed4 {
+        left: -402px;
+        top: -197px;
+    }
+
+    #github4 {
+        left: -402px;
+        top: -196px;
+    }
+
+    /* Fitness */
+    #background5 {
+        background: none;
+        border:5px solid #a84da6; /* Old browsers */
+    }
+    #img5 {
+        left: -82px;
+        top: -26px;
+    }
+
+    #github5 {
+        left: -403px;
+        top: -281px;
+        color:rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93)
+    }
+
+    #deployed5 {
+        left: -402px;
+        top: -273px;
+        color:rgb(95, 93, 93);
+        border-color: rgb(95, 93, 93)
+    }
+
+    #overview5 {
+        padding-top: 217px;
+        padding-left: 30px;
+        color:rgb(95, 93, 93);
+    }
+
+    /* hiketunez */
+    #background6 {
+        background: none;
+        border:5px solid #93861d; /* Old browsers */
+    }
+
+    #img6 {
+        left: -82px;
+        top: -48px;
+    }
+
+    #github6 {
+        left: -398px;
+        top: -247px;
+    }
+
+    #deployed6 {
+        left: -397px;
+        top: -237px;
+    }
+
+    #overview6 {
+        padding-top: 224px;
+        padding-left: 30px;
+    }
+}
