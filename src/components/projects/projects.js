@@ -9,12 +9,13 @@ function Projects (props) {
 
         
             <div class="card" id={"background" + props.id}>
-                <div class="overview" >
+                <div class="light-background" id={"light-background" + props.id}></div>
+                <div class="overview">
                     <p id={"overview" + props.id}>{props.overview}</p>
                 </div>
                 <div class="mockup">
                     <h1 id={"mockup" + props.id}>{props.mockup}</h1>
-                    <img src={props.image} alt={props.alt} id={"img" + props.id}></img>
+                    {/* <img src={props.image} alt={props.alt} id={"img" + props.id}></img> */}
                     <div class="links">
                         <button class="btn-deployed" target='_blank' onclick="window.location={props.deployed}" id={"deployed" + props.id}>Deployed</button>
                         <button class="btn-github" target='_blank' onclick="window.location={props.github}" id={"github" + props.id}>GitHub</button>

@@ -2,7 +2,6 @@
     {
         "id":1,
         "mockup": "RecipeGram",
-        "image": "../assets/coding/recipegramkit.png",
         "alt": "Something",
         "overview": "RecipeGram is the go to site for adding and storing your own recipes using a login. You can also view recipes that other uses make public and write reviews.",
         "deployed": "https://recipe-gram-best-team.herokuapp.com/",

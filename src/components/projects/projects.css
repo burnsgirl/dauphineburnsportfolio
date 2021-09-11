@@ -72,60 +72,9 @@
     align-items: center;
 }
 
-/* Backgrounds */
-
-#background1 {
-    background: #6aeeb0; /* Old browsers */
-    background: -moz-linear-gradient(left,  #6aeeb0 0%, #7ff3b5 40%, #a8eecd 59%, #a8eecd 59%, #7ff3b5 71%, #b6eccf 87%, #8bf3ba 99%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left,  #6aeeb0 0%,#7ff3b5 40%,#a8eecd 59%,#a8eecd 59%,#7ff3b5 71%,#b6eccf 87%,#8bf3ba 99%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right,  #6aeeb0 0%,#7ff3b5 40%,#a8eecd 59%,#a8eecd 59%,#7ff3b5 71%,#b6eccf 87%,#8bf3ba 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6aeeb0', endColorstr='#8bf3ba',GradientType=1 ); /* IE6-9 */
-    
-}
-
-#background2 {
-    background: #45c0ae; /* Old browsers */
-background: -moz-linear-gradient(left,  #45c0ae 1%, #23ddc1 47%, #6cc9a9 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  #45c0ae 1%,#23ddc1 47%,#6cc9a9 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  #45c0ae 1%,#23ddc1 47%,#6cc9a9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45c0ae', endColorstr='#6cc9a9',GradientType=1 ); /* IE6-9 */
-}
-
-#background3 {
-    background: #1e6f9a; /* Old browsers */
-background: -moz-linear-gradient(left,  #1e6f9a 0%, #6fb9db 51%, #2aaad8 75%, #7ecee8 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  #1e6f9a 0%,#6fb9db 51%,#2aaad8 75%,#7ecee8 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  #1e6f9a 0%,#6fb9db 51%,#2aaad8 75%,#7ecee8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e6f9a', endColorstr='#7ecee8',GradientType=1 ); /* IE6-9 */
-}
-
-#background4 {
-    background: #28a5cc; /* Old browsers */
-background: -moz-linear-gradient(left,  #28a5cc 45%, #2cbeea 62%, #25c1ed 66%, #77c2dd 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  #28a5cc 45%,#2cbeea 62%,#25c1ed 66%,#77c2dd 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  #28a5cc 45%,#2cbeea 62%,#25c1ed 66%,#77c2dd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28a5cc', endColorstr='#77c2dd',GradientType=1 ); /* IE6-9 */
-}
-
-#background5 {
-    background: #a84da6;
-background: -moz-linear-gradient(left,  #a84da6 0%, #dc81e8 32%, #d87ce2 55%, #b01ed8 95%, #a84da6 100%);
-background: -webkit-linear-gradient(left,  #a84da6 0%,#dc81e8 32%,#d87ce2 55%,#b01ed8 95%,#a84da6 100%);
-background: linear-gradient(to right,  #a84da6 0%,#dc81e8 32%,#d87ce2 55%,#b01ed8 95%,#a84da6 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a84da6', endColorstr='#a84da6',GradientType=1 );
-
-}
-
-#background6 {
-    background: #93861d;
-background: -moz-linear-gradient(left,  #93861d 0%, #c9ce92 41%, #c9ce92 58%, #a1a33e 100%, #bfc66b 100%);
-background: -webkit-linear-gradient(left,  #93861d 0%,#c9ce92 41%,#c9ce92 58%,#a1a33e 100%,#bfc66b 100%);
-background: linear-gradient(to right,  #93861d 0%,#c9ce92 41%,#c9ce92 58%,#a1a33e 100%,#bfc66b 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93861d', endColorstr='#bfc66b',GradientType=1 );
-
-}
 
 /* Individual Overviews */
+
 #overview1 {
     padding-top: 170px;
     padding-left: 30px;
@@ -221,49 +170,59 @@ button:hover {
     color:white;
     border-color:white;
 }
-/* images */
 
-#img1 {
-    height:600px;
-    width:1000px;
-    position: absolute;
+
+
+/* RecipeGram */
+#background1 {
+    background-image: url("./assetspic/recipegramkit.png");
+    background-size: cover;
 }
-
-#img2 {
-    height:600px;
-    width:700px;
-    position: absolute;
-}
-
-#img3 {
-    height: 600px;
-    width: 850px;
+#overview1 {  
+    font-size: 20px;
+    color: white;
     position: relative;
-    left: -98px;
+    left: 427px;
+    top: 40px;
 }
 
-#img4 {
-    height: 500px;
-    width: 750px;
-    position: absolute;
-    margin-top:40px;
-    margin-left: -22px;
+#mockup1 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    height: 0px;
+    margin: 0px;
+    font-size: 50px;
+    position: relative;
+    left: 441px;
+    top: -496px;
 }
 
-#img5 {
-    height: 600px;
-    width: 550px;
-    position: absolute;
-    margin-top: -27px;
-    margin-left: 54px;
+#light-background1 {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 664px;
+    top: 217px;
+    background-color: #616161;
+    opacity: .6;
 }
 
-#img6 {
-    height: 530px;
-    width: 370px;
-    position: absolute;
-    margin-top: 40px;
-    margin-left: 141px;
+#deployed1 {
+    position: relative;
+    top: -290px;
+    left: 11px;
+    color: white;
+    border-color:white;
+}
+
+#github1 {
+    position: relative;
+    top: -362px;
+    left: 182px;
+    color: white;
+    border-color:white;
 }
 
 
