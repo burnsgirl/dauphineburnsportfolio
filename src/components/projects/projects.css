@@ -132,8 +132,9 @@ button:hover {
     font-size: 20px;
     color: white;
     position: relative;
-    left: 449px;
-    top: 225px;
+    left: 214px;
+    top: 222px;
+    width: 300px;
 }
 
 #mockup1 {
@@ -145,32 +146,32 @@ button:hover {
     margin: 0px;
     font-size: 50px;
     position: relative;
-    left: 441px;
-    top: -496px;
+    left: 416px;
+    top: -479px;
 }
 
 #light-background1 {
-    height: 250px;
-    width: 250px;
+    height: 490px;
+    width: 402px;
     position: relative;
-    left: 664px;
-    top: 217px;
+    left: 566px;
+    top: 58px;
     background-color: #616161;
     opacity: .6;
 }
 
 #deployed1 {
     position: relative;
-    top: -290px;
-    left: 11px;
+    top: -372px;
+    left: -11px;
     color: white;
     border-color:white;
 }
 
 #github1 {
     position: relative;
-    top: -362px;
-    left: 182px;
+    top: -445px;
+    left: 153px;
     color: white;
     border-color:white;
 }
@@ -182,7 +183,7 @@ button:hover {
 }
 
 #overview5 {  
-        font-size: 20px;
+    font-size: 20px;
     color: white;
     position: relative;
     left: 214px;
