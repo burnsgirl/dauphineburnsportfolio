@@ -25,7 +25,7 @@
     height:590px;
     text-align:center;
     font-family: 'Roboto', sans-serif;
-    color: rgb(95, 93, 93);
+    color: white;
     text-align:center;
     justify-content: center;
     align-items:center;
@@ -34,7 +34,7 @@
 .mockup h1 {
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
-    color: rgb(95, 93, 93);
+    color: white;
     text-align: center;
     height:0px;
     margin: 0px;
@@ -48,19 +48,6 @@
     border: none;
 }
 
-/* CodeQuiz Mockup */
-
-#mockup3 {
-    color:white;
-}
-
-#mockup2 {
-    color:white;
-}
-
-#mockup5 {
-    color:white;
-}
 
 .links {
     margin-top: 175px;
@@ -70,43 +57,6 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-}
-
-
-/* Individual Overviews */
-
-#overview1 {
-    padding-top: 170px;
-    padding-left: 30px;
-}
-
-#overview2 {
-    padding-top: 235px;
-    padding-left: 30px;
-    color:white;
-    
-}
-
-#overview3 {
-    padding-top: 222px;
-    padding-left: 30px;
-    color:rgb(255, 254, 254);
-}
-
-#overview4 {
-    padding-top: 196px;
-    padding-left: 30px;
-}
-
-#overview5 {
-    padding-top: 196px;
-    padding-left: 30px;
-    color:white;
-}
-
-#overview6 {
-    padding-top: 240px;
-    padding-left: 30px;
 }
 
 
@@ -182,8 +132,8 @@ button:hover {
     font-size: 20px;
     color: white;
     position: relative;
-    left: 427px;
-    top: 40px;
+    left: 449px;
+    top: 225px;
 }
 
 #mockup1 {
@@ -226,10 +176,57 @@ button:hover {
 }
 
 /* Fitness Tracker */
-
 #background5 {
     background-image: url("./assetspic/fitnesstracker.png");
     background-size: cover;
+}
+
+#overview5 {  
+        font-size: 20px;
+    color: white;
+    position: relative;
+    left: 214px;
+    top: 222px;
+    width: 300px;
+}
+
+#mockup5 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    height: 0px;
+    margin: 0px;
+    font-size: 50px;
+    position: relative;
+    left: 416px;
+    top: -479px;
+}
+
+#light-background5 {
+    height: 490px;
+    width: 402px;
+    position: relative;
+    left: 566px;
+    top: 58px;
+    background-color: #616161;
+    opacity: .6;
+}
+
+#deployed5 {
+    position: relative;
+    top: -372px;
+    left: -11px;
+    color: white;
+    border-color:white;
+}
+
+#github5 {
+    position: relative;
+    top: -445px;
+    left: 153px;
+    color: white;
+    border-color:white;
 }
 
 /* Work Schedule */
