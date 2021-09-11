@@ -34,7 +34,6 @@ header {
 .navbar {
     justify-content: center;
     height: 50px;
-    /* width:700px; */
     font-size: 40px;
     font-weight: bold;
     color: rgb(95, 93, 93);
@@ -246,9 +245,19 @@ header {
         width:300px;
     }
 
-    .aboutmeoverview {
-        width: 450px;
+    .navbar {
+        justify-content: none;
+        height: 0px;
+        
+        font-size: 40px;
+        font-weight: bold;
+        color: rgb(95, 93, 93);
+        font-family: 'Roboto', sans-serif;
+        position: none;
+        left: 0px;
+        bottom: 0px;
     }
+
 
     #pic img {
         left: 224px;

@@ -230,6 +230,7 @@ button:hover {
     border-color:white;
 }
 
+
 /* Work Schedule */
 #background4 {
     background-image: url("./assetspic/worksched.png");
@@ -481,19 +482,55 @@ border-color:white;
     }
 
     .links {
-        position: relative;
-        right:145px;
+        position: none;
+        right:0px;
 
     }
 
     /* recipegram */
-    #img1 {
-        height: 350px;
-        width: 350px;
-        position: relative;
-        left: 71px;
-        top: 32px;
+
+
+    /* .card:hover {
+        background: rgb(95, 93, 93);
+        display: block;
+    } */
+    #background1 {
+        background-position: center;
     }
+
+    #overview1 {  
+        font-size: 20px;
+        color: white;
+        position: relative;
+        left: 214px;
+        top: 222px;
+        width: 300px;
+    }
+
+    #mockup1 {
+        font-weight: bold;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        text-align: center;
+        height: 0px;
+        margin: 0px;
+        font-size: 50px;
+        position: relative;
+        left: 416px;
+        top: -479px;
+    }
+
+    #light-background1 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+        background-color: #616161;
+        
+        opacity: .6;
+    }
+    
 
     #deployed1 {
         position: relative;
@@ -507,7 +544,19 @@ border-color:white;
         top: -424px;
     }
 
-    /* Code Quiz */
+    /* Directory */
+
+    #background3 {
+        background-position: center;
+    }
+
+    #light-background3 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
 
     #img3 {
         height: 400px;
@@ -528,7 +577,19 @@ border-color:white;
         top: -461px;
     }
 
-    /* Note Taker */
+    /* Budget Tracker */
+
+    #background2 {
+        background-position: center;
+    }
+
+    #light-background2 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
 
     #img2 {
         height:400px;
@@ -549,6 +610,18 @@ border-color:white;
     }
 
     /* Work Schedule */
+
+    #background4 {
+        background-position: center;
+    }
+
+    #light-background4 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
 
     #deployed4 {
         position: relative;
@@ -571,6 +644,17 @@ border-color:white;
     }
 
     /* Fitness */
+    #background5 {
+        background-position: center;
+    }
+
+    #light-background5 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
 
     #img5 {
         position: relative;
@@ -594,6 +678,17 @@ border-color:white;
 
     /* hiketunez */
 
+    #background6 {
+        background-position: center;
+    }
+
+    #light-background6 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
 
     #img6 {
         position: relative;
@@ -850,6 +945,17 @@ border-color:white;
     .mockup {
         width: 300px;
     }
+
+    .links {
+        margin-top: 0px;
+        margin-left: 0px;
+        height: 0px;
+        width: 00px;
+        text-align: none;
+        justify-content: none;
+        align-items: none;
+    }
+    
 
     /* RecipeGram */
 
