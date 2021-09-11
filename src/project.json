@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "mockup": "RecipeGram",
+        "image": "../assets/coding/recipegramkit.png",
+        "alt": "Something",
+        "overview": "RecipeGram is the go to site for adding and storing your own recipes using a login. You can also view recipes that other uses make public and write reviews.",
+        "deployed": "https://recipe-gram-best-team.herokuapp.com/",
+        "github": "https://github.com/burnsgirl/Recipe-Gram"
+    },
+    {
+        "id":5,
+        "mockup": "Fitness Tracker",
+        "image": "../assets/coding/fitness.png",
+        "overview": "This site was developed so you can keep track of your exercises. It will help you stay on track of how you are doing time wise and weight wise.",
+        "deployed": "https://fitnesstracker20212021.herokuapp.com/?id=612ee156e3240b0016a40960",
+        "github": "https://github.com/burnsgirl/Fitness-Tracker"
+    },
+    {
+        "id":4,
+        "mockup": "Work Schedule",
+        "image": "../assets/coding/Work Schedule.png",
+        "alt": "Something",
+        "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
+        "deployed": "https://burnsgirl.github.io/Work-Schedule/",
+        "github": "https://github.com/burnsgirl/Work-Schedule"
+    },
+    {
+    
+        "id":2,
+        "mockup": "Note Taker",
+        "image": "../assets/coding/Note Taker.png",
+        "alt": "Something",
+        "overview": "Keep track of things you need to do with this list application that saves the information locally.",
+        "deployed": "https://voyage-monsieur-93664.herokuapp.com/",
+        "github": "https://github.com/burnsgirl/Note-Taker"
+
+    },
+    {
+        "id":6,
+        "mockup": "HikeTunez",
+        "image": "../assets/coding/hiketunez.png",
+        "overview": "HikeTunez allows you to search for places to hike in your area and customizes a playlist to the difficulty of the hike.",
+        "deployed": "https://donchiz77.github.io/Hiketunez",
+        "github": "https://github.com/burnsgirl/Hiketunez"
+    },
+    {
+        "id":3,
+        "mockup": "Code Quiz",
+        "image": "../assets/coding/Code Quiz.png",
+        "alt": "Something",
+        "overview": "Take this quiz if you would like to test your web coding knowledge!",
+        "deployed": "https://burnsgirl.github.io/Code-Quiz/",
+        "github": "https://github.com/burnsgirl/Code-Quiz"
+    }
+    
+]
