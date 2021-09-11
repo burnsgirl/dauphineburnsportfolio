@@ -235,10 +235,106 @@ button:hover {
     background-size: cover;
 }
 
+#overview4 {  
+    font-size: 20px;
+color: white;
+position: relative;
+left: 214px;
+top: 222px;
+width: 300px;
+}
+
+#mockup4 {
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+color: white;
+text-align: center;
+height: 0px;
+margin: 0px;
+font-size: 50px;
+position: relative;
+left: 416px;
+top: -479px;
+}
+
+#light-background4 {
+height: 490px;
+width: 402px;
+position: relative;
+left: 566px;
+top: 58px;
+background-color: #616161;
+opacity: .6;
+}
+
+#deployed4 {
+position: relative;
+top: -372px;
+left: -11px;
+color: white;
+border-color:white;
+}
+
+#github4 {
+position: relative;
+top: -445px;
+left: 153px;
+color: white;
+border-color:white;
+}
+
 /* HikeTunez */
 #background6 {
     background-image: url("./assetspic/hiketunez1.png");
     background-size: cover;
+}
+
+#overview6 {  
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: -296px;
+    top: 222px;
+    width: 300px;
+}
+
+#mockup6 {
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+color: white;
+text-align: center;
+height: 0px;
+margin: 0px;
+font-size: 50px;
+position: relative;
+left: -100px;
+top: -479px;
+}
+
+#light-background6 {
+height: 490px;
+width: 402px;
+position: relative;
+left: 55px;
+top: 58px;
+background-color: #616161;
+opacity: .6;
+}
+
+#deployed6 {
+position: relative;
+top: -372px;
+left: -522px;
+color: white;
+border-color:white;
+}
+
+#github6 {
+position: relative;
+top: -445px;
+left: -355px;
+color: white;
+border-color:white;
 }
 
 /* BudgetTracker */
@@ -247,10 +343,106 @@ button:hover {
     background-size: cover;
 }
 
+#overview2 {  
+    font-size: 20px;
+color: white;
+position: relative;
+left: 214px;
+top: 222px;
+width: 300px;
+}
+
+#mockup2 {
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+color: white;
+text-align: center;
+height: 0px;
+margin: 0px;
+font-size: 50px;
+position: relative;
+left: 416px;
+top: -479px;
+}
+
+#light-background2 {
+height: 490px;
+width: 402px;
+position: relative;
+left: 566px;
+top: 58px;
+background-color: #616161;
+opacity: .6;
+}
+
+#deployed2 {
+position: relative;
+top: -372px;
+left: -11px;
+color: white;
+border-color:white;
+}
+
+#github2 {
+position: relative;
+top: -445px;
+left: 153px;
+color: white;
+border-color:white;
+}
+
 /* Employee Directory */
 #background3 {
     background-image: url("./assetspic/workschedule1.png");
     background-size: cover;
+}
+
+#overview3 {  
+    font-size: 20px;
+color: white;
+position: relative;
+left: 214px;
+top: 222px;
+width: 300px;
+}
+
+#mockup3 {
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+color: white;
+text-align: center;
+height: 0px;
+margin: 0px;
+font-size: 50px;
+position: relative;
+left: 416px;
+top: -479px;
+}
+
+#light-background3 {
+height: 490px;
+width: 402px;
+position: relative;
+left: 566px;
+top: 58px;
+background-color: #616161;
+opacity: .6;
+}
+
+#deployed3 {
+position: relative;
+top: -372px;
+left: -11px;
+color: white;
+border-color:white;
+}
+
+#github3 {
+position: relative;
+top: -445px;
+left: 153px;
+color: white;
+border-color:white;
 }
 
 
