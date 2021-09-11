@@ -225,6 +225,37 @@ button:hover {
     border-color:white;
 }
 
+/* Fitness Tracker */
+
+#background5 {
+    background-image: url("./assetspic/fitnesstracker.png");
+    background-size: cover;
+}
+
+/* Work Schedule */
+#background4 {
+    background-image: url("./assetspic/workschedule1.png");
+    background-size: cover;
+}
+
+/* HikeTunez */
+#background6 {
+    background-image: url("./assetspic/hiketunez1.png");
+    background-size: cover;
+}
+
+/* BudgetTracker */
+#background2 {
+    background-image: url("./assetspic/budgettracker.png");
+    background-size: cover;
+}
+
+/* Employee Directory */
+#background3 {
+    background-image: url("./assetspic/workschedule1.png");
+    background-size: cover;
+}
+
 
   
     @media screen and (max-width:1050px) {
