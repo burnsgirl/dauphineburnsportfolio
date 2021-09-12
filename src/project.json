@@ -26,7 +26,7 @@
         "id":3,
         "mockup": "Directory",
         "alt": "Something",
-        "overview": "This application is used for viewing your employees. You can also access general information about each employee. Use the filter option to sort the employees by age or by the country they reside in. You can also sort them in alphabetical order by last name.",
+        "overview": "View all your employees in one place. You can access general information about each employee. Use the filter option to sort the employees by age or country. You can also sort them in alphabetical order by last name.",
         "deployed": "https://burnsgirl.github.io/Employee-Directory-2/",
         "github": "https://github.com/burnsgirl/Employee-Directory-2"
 
@@ -35,7 +35,7 @@
         "id":2,
         "mockup": "Budget Tracker",
         "alt": "Something",
-        "overview": "Budget Tracker is used for keeping a budget during your busy lifestyle. Whether you are connected to the internet or offline, you can have an up-to-date spreadsheet. Enter your deposits and withdraws to stay on top of your money.",
+        "overview": "Keep a budget during your busy lifestyle. Whether you are connected to the internet or offline, you can have an up-to-date spreadsheet. Enter your deposits and withdraws to stay on top of your money.",
         "deployed": "https://budgettracker20212021.herokuapp.com/",
         "github": "https://github.com/burnsgirl/Budget-Tracker"
     },

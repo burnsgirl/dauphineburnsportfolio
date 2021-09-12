@@ -587,12 +587,6 @@ border-color:white;
         top: -392px;
     }
 
-    #img2 {
-        height:400px;
-        width:500px;
-        position: absolute;
-    }
-
     #deployed2 {
         left: -367px;
         top: -292px;
@@ -983,170 +977,172 @@ border-color:white;
     
 
     /* RecipeGram */
-
-    #background1 {
-        background: none;
-        border:5px solid #6aeeb0; /* Old browsers */
+    #light-background1 {
+        height: 600px;
+        width: 300px;
     }
 
-    #img1 {
-        top: 23px;
-        left: 26px;
+    #mockup1 {
+        left: 2px;
+        top: -686px;
+        font-size: 35px;
     }
 
     #overview1 {
-        top:-65px;
+        top: -456px;
+        width: 200px;
+        left: 50px;
     }
 
     #deployed1 {
-        left: -405px;
-        top: -161px;
+        left: 60px;
+        top: -400px;
     }
 
     #github1 {
-        left: -406px;
-        top: -167px;
+        left: 70px;
+        top: -395px;
     }
-    /* Code Quiz */
-    #background3 {
-        background: none;
-        border:5px solid #1e6f9a; /* Old browsers */
-    }
+    /* Directory */
 
-    #img3 {
-        height: 240px;
-        width: 390px;
-        position: relative;
-        left: -40px;
-        top: -24px;
+    #mockup3 {
+        left: 2px;
+        top: -722px;
+        font-size: 35px;
+        color:white;
+    }
+    #light-background3 {
+        height: 600px;
+        width: 300px;
     }
 
     #deployed3 {
-        left: -397px;
-        top: -182px;
-        color:rgb(95, 93, 93);
-        border-color: rgb(95, 93, 93)
+        left: 60px;
+        top: -400px;
     }
 
     #github3 {
-        left: -397px;
-        top: -173px;
-        color:rgb(95, 93, 93);
-        border-color: rgb(95, 93, 93)
+        left: 70px;
+        top: -395px;
     }
 
     #overview3 {
-        color:rgb(95, 93, 93);
+        top: -505px;
+        width: 200px;
+        left: 50px;
     }
 
-    /* Note Taker */
-    #background2 {
-        background: none;
-        border:5px solid #45c0ae; /* Old browsers */
-    }
+    /* Budget Tracker */
 
-    #img2 {
-        left: -28px;
-        top: -32px;
+    #mockup2 {
+        left: 2px;
+        top: -686px;
+        font-size: 35px;
+        color:white;
     }
-
+    #light-background2 {
+        height: 600px;
+        width: 300px;
+    }
     #deployed2 {
-        color: rgb(95, 93, 93);
-        border-color: rgb(95, 93, 93);
-        left: -403px;
-        top: -226px;
-        
+        left: 60px;
+        top: -400px;
     }
 
     #github2 {
-        color: rgb(95, 93, 93);
-        border-color: rgb(95, 93, 93);
-        left: -403px;
-        top: -230px;
+        left: 70px;
+        top: -395px;
     }
 
     #overview2 {
-        color:rgb(95, 93, 93);
+        top: -480px;
+        width: 200px;
+        left: 50px;
     }
 
 /* Work Schedule */
-    #background4 {
-        background: none;
-        border:5px solid #28a5cc; /* Old browsers */
+
+    #mockup4 {
+        left: 2px;
+        top: -686px;
+        font-size: 35px;
     }
-    #img4 {
-        top: -22px;
-        left: -26px;
-    }
+    #light-background4 {
+        height: 600px;
+        width: 300px;
+}
 
     #overview4 {
-        position: relative;
-        top:-100px;
-    }
+        top: -456px;
+        width: 200px;
+        left: 50px;
+}
 
     #deployed4 {
-        left: -402px;
-        top: -197px;
+        left: 60px;
+        top: -400px;
     }
 
     #github4 {
-        left: -402px;
-        top: -196px;
+        left: 70px;
+        top: -395px;
     }
 
     /* Fitness */
-    #background5 {
-        background: none;
-        border:5px solid #a84da6; /* Old browsers */
-    }
-    #img5 {
-        left: -82px;
-        top: -26px;
+    #light-background5 {
+        height: 600px;
+        width: 300px;
     }
 
-    #github5 {
-        left: -403px;
-        top: -281px;
-        color:rgb(95, 93, 93);
-        border-color: rgb(95, 93, 93)
+    #mockup5 {
+        left: 2px;
+        top: -686px;
+        font-size: 35px;
+        color:white;
     }
 
     #deployed5 {
-        left: -402px;
-        top: -273px;
-        color:rgb(95, 93, 93);
-        border-color: rgb(95, 93, 93)
+        left: 60px;
+        top: -400px;
+    }
+
+    #github5 {
+        left: 70px;
+        top: -395px;
     }
 
     #overview5 {
-        padding-top: 217px;
-        padding-left: 30px;
-        color:rgb(95, 93, 93);
+        top: -456px;
+        width: 200px;
+        left: 50px;
     }
 
     /* hiketunez */
-    #background6 {
-        background: none;
-        border:5px solid #93861d; /* Old browsers */
+
+    #mockup6 {
+        left: 2px;
+        top: -686px;
+        font-size: 35px;
     }
 
-    #img6 {
-        left: -82px;
-        top: -48px;
-    }
-
-    #github6 {
-        left: -398px;
-        top: -247px;
+    #light-background6 {
+        height: 600px;
+        width: 300px;
     }
 
     #deployed6 {
-        left: -397px;
-        top: -237px;
+        left: 60px;
+        top: -400px;
+    }
+
+    #github6 {
+        left: 70px;
+        top: -395px;
     }
 
     #overview6 {
-        padding-top: 224px;
-        padding-left: 30px;
+        top: -456px;
+        width: 200px;
+        left: 50px;
     }
 }
