@@ -499,25 +499,13 @@ border-color:white;
     }
 
     #overview1 {  
-        font-size: 20px;
-        color: white;
-        position: relative;
-        left: 214px;
-        top: 222px;
-        width: 300px;
+        left: 412px;
+        top: -288px;
     }
 
     #mockup1 {
-        font-weight: bold;
-        font-family: 'Roboto', sans-serif;
-        color: white;
-        text-align: center;
-        height: 0px;
-        margin: 0px;
-        font-size: 50px;
-        position: relative;
-        left: 416px;
-        top: -479px;
+        left: 166px;
+        top: -392px;
     }
 
     #light-background1 {
@@ -527,27 +515,29 @@ border-color:white;
         left: 0px;
         top: 0px;
         background-color: #616161;
-        
         opacity: .6;
     }
     
 
     #deployed1 {
-        position: relative;
-        left: -35px;
-        top: -438px;
+        left: -367px;
+        top: -326px;
     }
 
-    #github1 {
-        position: relative;
-        left: -35px;
-        top: -424px;
+    #github1 { 
+        left: -199px;
+        top: -400px;
     }
 
     /* Directory */
 
     #background3 {
         background-position: center;
+    }
+
+    #mockup3 {
+        left: -195px;
+        top: -409px;
     }
 
     #light-background3 {
@@ -558,23 +548,19 @@ border-color:white;
         top: 0px;
     }
 
-    #img3 {
-        height: 400px;
-        width: 600px;
-        position: relative;
-        left: -47px;
+    #overview3 {
+        top: -329px;
+        left: 55px;
     }
 
     #deployed3 {
-        position: relative;
-        left: -35px;
-        top: -480px;
+        left: -719px;
+        top: -297px;
     }
 
     #github3 {
-        position: relative;
-        left: -35px;
-        top: -461px;
+        left: -548px;
+        top: -370px;
     }
 
     /* Budget Tracker */
@@ -591,6 +577,16 @@ border-color:white;
         top: 0px;
     }
 
+    #overview2 {
+        left: 412px;
+        top: -311px;
+    }
+
+    #mockup2 {
+        left: 166px;
+        top: -392px;
+    }
+
     #img2 {
         height:400px;
         width:500px;
@@ -598,21 +594,24 @@ border-color:white;
     }
 
     #deployed2 {
-        position: relative;
-        left: -35px;
-        top: -86px;
+        left: -367px;
+        top: -292px;
     }
 
     #github2 {
-        position: relative;
-        left: -35px;
-        top: -64px;
+        left: -199px;
+        top: -365px;
     }
 
     /* Work Schedule */
 
     #background4 {
         background-position: center;
+    }
+
+    #mockup4 {
+        left: -189px;
+        top: -391px;
     }
 
     #light-background4 {
@@ -624,28 +623,33 @@ border-color:white;
     }
 
     #deployed4 {
-        position: relative;
-        left: -35px;
-        top: -86px;
+        left: -719px;
+        top: -327px;
     }
 
     #github4 {
-        position: relative;
-        left: -35px;
-        top: -64px;
+        left: -548px;
+        top: -400px;
     }
 
-    #img4 {
-        height: 300px;
-        width: 450px;
-        position: absolute;
-        margin-top: 57px;
-        margin-left: 26px;
+    #overview4 {
+        top: -303px;
+        left: 57px;
     }
 
     /* Fitness */
+
+    #overview5 {
+        left: 412px;
+        top: -288px;
+    }
     #background5 {
         background-position: center;
+    }
+
+    #mockup5 {
+        left: 166px;
+        top: -392px;
     }
 
     #light-background5 {
@@ -656,27 +660,23 @@ border-color:white;
         top: 0px;
     }
 
-    #img5 {
-        position: relative;
-        height: 400px;
-        left: 2px;
-        top: 27px;
-        width: 350px;
-    }
 
     #github5 {
-        position: relative;
-        left: -41px;
-        top: -447px;
+        left: -367px;
+        top: -402px;
     }
 
     #deployed5 {
-        position: relative;
-        left: -41px;
-        top: -447px;
+        left: -199px;
+        top: -329px;
     }
 
     /* hiketunez */
+
+    #mockup6 {
+        left: -195px;
+        top: -370px;
+    }
 
     #background6 {
         background-position: center;
@@ -690,29 +690,19 @@ border-color:white;
         top: 0px;
     }
 
-    #img6 {
-        position: relative;
-        height: 300px;
-        left: 2px;
-        top: 16px;
-        width: 200px;
-    }
-
     #github6 {
-        position: relative;
-        left: -41px;
-        top: -410px;
+        left: -548px;
+        top: -400px;
     }
 
     #deployed6 {
-        position: relative;
-        left: -41px;
-        top: -435px;
+        left: -719px;
+        top: -327px;
     }
 
     #overview6 {
-        padding-top: 208px;
-        padding-left: 30px;
+        top: -269px;
+        left: 55px;
     }
 }
 
