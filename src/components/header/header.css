@@ -161,7 +161,33 @@ header {
     }
 }
 
-@media screen and (max-width:850px) {
+@media screen and (max-width:865px) {
+
+    .navbar {
+        justify-content: none;
+        height: 0px;
+        
+        font-size: 40px;
+        font-weight: bold;
+        color: rgb(95, 93, 93);
+        font-family: 'Roboto', sans-serif;
+        position: none;
+        left: 0px;
+        bottom: 0px;
+    }
+
+    .aboutmeoverview {
+        position: none;
+        bottom: 0px;
+        left: 0px;
+       
+        width:0px;
+        text-decoration: none;
+        color: rgb(95, 93, 93);
+        height:0px;
+        border-bottom: 3px solid rgb(95, 93, 93);
+    }
+
     /* Header */
     .container {
         margin: 0px 20px;
@@ -177,53 +203,46 @@ header {
     }
 
     #name {
-        position: relative;
-        left: 20px;
-        bottom: -270px;
+        left: 263px;
+        bottom: -37px;
     }
 
     #about {
-        position: relative;
-        left: -345px;
-        top: 320px;
+        left: -86px;
+        top: 93px;
     }
 
     #aboutme {
-        position: relative;
-        top: 293px;
-        left: -2px;
+        top: 66px;
+        left: 250px;
         width: 400px;
     }
 
     .contact {
-        position: relative;
-        left: -80px;
-        top: 265px;
-        width: 600px;
+        left: 344px;
+        top: 50px;
+        width: 200px;
         border-bottom:none;
     }
 
     #number {
-        position: relative;
-        left:195px;
+        left: 327px;
+        top: -228px;
     }
 
     #email {
-        position: relative;
-        left: 12px;
-        top: 35px;
+        left: 328px;
+        top: -229px;
     }
 
     #linkedin {
-        position: relative;
-        left: -175px;
-        top: 80px;
+        left: 61px;
+        top: -187px;
     }
 
     #github {
-        position: relative;
-        left: -172px;
-        top: 80px;
+        left: 65px;
+        top: -187px;
     }
 }
 
@@ -243,19 +262,6 @@ header {
 
     .contact {
         width:300px;
-    }
-
-    .navbar {
-        justify-content: none;
-        height: 0px;
-        
-        font-size: 40px;
-        font-weight: bold;
-        color: rgb(95, 93, 93);
-        font-family: 'Roboto', sans-serif;
-        position: none;
-        left: 0px;
-        bottom: 0px;
     }
 
 
