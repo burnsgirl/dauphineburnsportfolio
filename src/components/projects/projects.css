@@ -742,16 +742,24 @@ border-color:white;
     }
 
     /* RecipeGram */
-    #img1 {
-        height: 250px;
-        width: 250px;
-        position: relative;
-        top: -23px;
-        left: 103px;
-    }
 
     #overview1 {
         top:-65px;
+    }
+
+    #mockup1 {
+        left: 85px;
+        top: -438px;
+    }
+
+    #light-background1 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+        background-color: #616161;
+        opacity: .6;
     }
 
     #deployed1 {
@@ -765,14 +773,11 @@ border-color:white;
         left: -246px;
         top: -304px;
     }
-    /* Code Quiz */
+    /* Directory */
 
-    #img3 {
-        height: 250px;
-        width: 400px;
-        position: relative;
-        left: 25px;
-        top: -46px;
+    #mockup3 {
+        left: 85px;
+        top: -438px;
     }
 
     #deployed3 {
@@ -781,19 +786,33 @@ border-color:white;
         top: -243px;
     }
 
+    #light-background3 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
+
     #github3 {
         position: relative;
         left: -246px;
         top: -316px;
     }
 
-    /* Note Taker */
-    #img2 {
-        height: 300px;
-        width: 350px;
-        position: relative;
-        left: 54px;
-        top: -76px;
+    /* Budget Tracker */
+
+    #mockup2 {
+        left: 85px;
+        top: -473px;
+    }
+ 
+    #light-background2 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
     }
 
     #deployed2 {
@@ -809,12 +828,17 @@ border-color:white;
     }
 
 /* Work Schedule */
-    #img4 {
-        height: 200px;
-        width: 300px;
-        position: relative;
-        top: -68px;
-        left: 57px;
+
+    #mockup4 {
+        left: 85px;
+        top: -473px;
+    }
+    #light-background4 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
     }
 
     #overview4 {
@@ -836,12 +860,17 @@ border-color:white;
 
     /* Fitness */
 
-    #img5 {
-        position: relative;
-        height: 400px;
-        left: -120px;
-        top: -54px;
-        width: 350px;
+    #mockup5 {
+        left: 85px;
+        top: -473px;
+    }
+
+    #light-background5 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
     }
 
     #github5 {
@@ -864,12 +893,17 @@ border-color:white;
     /* hiketunez */
 
 
-    #img6 {
-        position: relative;
-        height: 300px;
-        left: -123px;
-        top: -64px;
-        width: 200px
+    #mockup6 {
+        left: 85px;
+        top: -438px;
+    }
+
+    #light-background6 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
     }
 
     #github6 {
