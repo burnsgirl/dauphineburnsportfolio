@@ -199,17 +199,17 @@ header {
 
     #pic img {
         position: relative;
-        left:345px;
+        left: 244px;
     }
 
     #name {
-        left: 263px;
+        left: 162px;
         bottom: -37px;
     }
 
     #about {
-        left: -86px;
-        top: 93px;
+        left: 8px;
+        top: 9px;
     }
 
     #aboutme {
@@ -273,7 +273,7 @@ header {
     }
 
     #name {
-        left: 123px;
+        left: 118px;
         bottom: -47px;
         font-size:35px;
     }

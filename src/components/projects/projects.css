@@ -706,6 +706,10 @@ border-color:white;
     }
 
     /* Cards */
+
+    .links {
+        margin-left: 0px;
+    }
     .card {
         height: 460px;
         width: 460px;
@@ -758,12 +762,12 @@ border-color:white;
     }
 
     #deployed1 {
-        left: -555px;
+        left: 41px;
         top: -533px;
     }
 
     #github1 {
-        left: -389px;
+        left: 227px;
         top: -606px;
     }
     /* Directory */
@@ -787,12 +791,12 @@ border-color:white;
     }
 
     #deployed3 {
-        left: -555px;
+        left: 41px;
         top: -483px;
     }
 
     #github3 {
-        left: -389px;
+        left: 227px;
         top: -556px;;
     }
 
@@ -817,12 +821,12 @@ border-color:white;
     }
 
     #deployed2 {
-        left: -555px;
+        left: 41px;
         top: -483px;
     }
 
     #github2 {
-        left: -389px;
+        left: 227px;
         top: -556px;
     }
 
@@ -846,12 +850,12 @@ border-color:white;
     }
 
     #deployed4 {
-        left: -555px;
+        left: 41px;
         top: -533px;
     }
 
     #github4 {
-        left: -389px;
+        left: 227px;
         top: -606px;
     }
 
@@ -878,12 +882,12 @@ border-color:white;
     }
 
     #deployed5 {
-        left: -555px;
+        left: 41px;
         top: -533px;
     }
 
     #github5 {
-        left: -389px;
+        left: 227px;
         top: -606px;
     }
 
@@ -909,12 +913,12 @@ border-color:white;
     }
 
     #deployed6 {
-        left: -555px;
+        left: 41px;
         top: -533px;
     }
 
     #github6 {
-        left: -389px;
+        left: 227px;
         top: -606px;
     }
 }
