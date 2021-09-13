@@ -262,29 +262,31 @@ header {
 
     .contact {
         width:300px;
+        left: 129px;
+        top: -32px;
     }
 
 
     #pic img {
-        left: 224px;
+        left: 185px;
+        top: 17px;
     }
 
     #name {
-        position: relative;
-        left: -85px;
-        bottom: -270px;
+        left: 123px;
+        bottom: -47px;
         font-size:35px;
     }
 
     #about {
-        left: -170px;
-        top: 239px;
+        left: 118px;
+        top: 24px;
         font-size: 20px;
     }
 
     #aboutme {
-        top: 236px;
-        left: -79px;
+        top: -2px;
+        left: 140px;
         width: 300px;
     }
 
