@@ -956,7 +956,7 @@ border-color:white;
     }
 
     .overview {
-        height:150px;
+        height:0px;
         width:460px;
         text-align: center;
     }
@@ -975,7 +975,9 @@ border-color:white;
         margin-top: 0px;
         margin-left: 0px;
         height: 0px;
-        width: 00px;
+        width: 0px;
+        position: relative;
+        top: 138px;
         text-align: none;
         justify-content: none;
         align-items: none;
@@ -991,7 +993,7 @@ border-color:white;
 
     #mockup1 {
         left: 2px;
-        top: -686px;
+        top: -552px;
         font-size: 35px;
     }
 
@@ -1014,7 +1016,7 @@ border-color:white;
 
     #mockup3 {
         left: 2px;
-        top: -722px;
+        top: -578px;
         font-size: 35px;
         color:white;
     }
@@ -1025,12 +1027,12 @@ border-color:white;
 
     #deployed3 {
         left: 60px;
-        top: -400px;
+        top: -385px;
     }
 
     #github3 {
         left: 70px;
-        top: -395px;
+        top: -380px;
     }
 
     #overview3 {
@@ -1047,7 +1049,7 @@ border-color:white;
 
     #mockup2 {
         left: 2px;
-        top: -686px;
+        top: -552px;
         font-size: 35px;
         color:white;
     }
@@ -1057,12 +1059,12 @@ border-color:white;
     }
     #deployed2 {
         left: 60px;
-        top: -400px;
+        top:-382px;
     }
 
     #github2 {
         left: 70px;
-        top: -395px;
+        top: -377px;
     }
 
     #overview2 {
@@ -1078,7 +1080,7 @@ border-color:white;
     }
     #mockup4 {
         left: 2px;
-        top: -686px;
+        top: -552px;
         font-size: 35px;
     }
     #light-background4 {
@@ -1114,7 +1116,7 @@ border-color:white;
 
     #mockup5 {
         left: 2px;
-        top: -686px;
+        top: -552px;
         font-size: 35px;
         color:white;
     }
@@ -1142,7 +1144,7 @@ border-color:white;
     }
     #mockup6 {
         left: 2px;
-        top: -686px;
+        top: -520px;
         font-size: 35px;
     }
 
@@ -1162,7 +1164,7 @@ border-color:white;
     }
 
     #overview6 {
-        top: -456px;
+        top: -417px;
         width: 200px;
         left: 50px;
     }
