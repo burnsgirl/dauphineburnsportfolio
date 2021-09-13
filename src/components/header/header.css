@@ -264,7 +264,7 @@ header {
 
     .contact {
         width:300px;
-        left: 129px;
+        left: -13px;
         top: -32px;
     }
 
@@ -275,20 +275,20 @@ header {
     }
 
     #name {
-        left: 118px;
+        left: -3px;
         bottom: -47px;
         font-size:35px;
     }
 
     #about {
-        left: 118px;
+        left: -5px;
         top: 24px;
         font-size: 20px;
     }
 
     #aboutme {
         top: -2px;
-        left: 140px;
+        left: 14px;
         width: 300px;
     }
 
