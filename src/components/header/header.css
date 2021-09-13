@@ -215,14 +215,15 @@ header {
 
     #aboutme {
         top: 66px;
-        left: 250px;
+        left: 150px;
         width: 400px;
     }
 
     .contact {
-        left: 344px;
+        left: 110px;
         top: 50px;
-        width: 200px;
+        width: 450px;
+        text-align: center;
         border-bottom:none;
     }
 
