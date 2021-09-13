@@ -977,6 +977,7 @@ border-color:white;
     
 
     /* RecipeGram */
+
     #light-background1 {
         height: 600px;
         width: 300px;
@@ -1034,6 +1035,10 @@ border-color:white;
 
     /* Budget Tracker */
 
+    #background2 {
+        background-position: 45% 50%;
+    }
+
     #mockup2 {
         left: 2px;
         top: -686px;
@@ -1062,6 +1067,9 @@ border-color:white;
 
 /* Work Schedule */
 
+    #background4 {
+        background-position: 60% 50%;
+    }
     #mockup4 {
         left: 2px;
         top: -686px;
@@ -1089,6 +1097,10 @@ border-color:white;
     }
 
     /* Fitness */
+    #background5 {
+        background-position: 20% 50%;
+    }
+
     #light-background5 {
         height: 600px;
         width: 300px;
@@ -1119,6 +1131,9 @@ border-color:white;
 
     /* hiketunez */
 
+    #background6 {
+        background-position: 70% 50%;
+    }
     #mockup6 {
         left: 2px;
         top: -686px;
