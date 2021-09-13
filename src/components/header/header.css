@@ -195,6 +195,7 @@ header {
 
     .header {
         height: 650px;
+        right: 0px;
     }
 
     #pic img {
@@ -208,8 +209,8 @@ header {
     }
 
     #about {
-        left: 8px;
-        top: 9px;
+        left: -184px;
+        top: 90px;
     }
 
     #aboutme {
