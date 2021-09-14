@@ -16,8 +16,8 @@ function Projects (props) {
                 <div class="mockup">
                     <h1 id={"mockup" + props.id}>{props.mockup}</h1>
                     <div class="links">
-                        <button class="btn-deployed" target='_blank' onclick="location.href={props.deployed}" id={"deployed" + props.id}>Deployed</button>
-                        <button class="btn-github" target='_blank' onclick="window.location={props.github}" id={"github" + props.id}>GitHub</button>
+                        <button class="btn-deployed" target='_blank' onclick="window.open{props.deployed}" id={"deployed" + props.id}>Deployed</button>
+                        <button class="btn-github" target='_blank' href={props.github} id={"github" + props.id}>GitHub</button>
                     </div>
                 </div>  
             </div>

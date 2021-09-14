@@ -17,7 +17,7 @@ function Header() {
                     <ul id="about">
                         <a href="#about">About |</a>
                         <a href="#work">Work |</a>
-                        <a href="./Web Resume.pdf">Resume</a>
+                        <a href="./Dauphine Burns Resume.pdf">Resume</a>
                     </ul>
                 </div>
             </nav>
