@@ -710,6 +710,8 @@ border-color:white;
     .links {
         margin-left: 0px;
         height: 0px;
+        position: relative;
+        top: 62px;
     }
     .card {
         height: 460px;
@@ -744,13 +746,13 @@ border-color:white;
     /* RecipeGram */
 
     #overview1 {
-        top: -357px;
+        top: -290px;
         left: 84px;
     }
 
     #mockup1 {
         left: 85px;
-        top: -314px;
+        top: -394px;
     }
 
     #light-background1 {
@@ -775,13 +777,13 @@ border-color:white;
     /* Directory */
 
     #overview3 {
-        top: -374px;
+        top: -317px;
         left: 84px;
     }
 
     #mockup3 {
         left: 85px;
-        top: -314px;
+        top: -394px;
     }
 
     #light-background3 {
@@ -805,13 +807,13 @@ border-color:white;
     /* Budget Tracker */
 
     #overview2 {
-        top: -357px;
+        top: -294px;
         left: 84px;
     }
 
     #mockup2 {
         left: 85px;
-        top: -314px;
+        top: -430px;
     }
  
     #light-background2 {
@@ -841,7 +843,7 @@ border-color:white;
 
     #mockup4 {
         left: 85px;
-        top: -314px;
+        top: -394px;
     }
     #light-background4 {
         height: 460px;
@@ -853,7 +855,7 @@ border-color:white;
 
     #deployed4 {
         left: 41px;
-        top: -370px;
+        top: -295px;
     }
 
     #github4 {
@@ -872,7 +874,7 @@ border-color:white;
 
     #mockup5 {
         left: 85px;
-        top: -314px;
+        top: -394px;
     }
 
     #light-background5 {
@@ -903,7 +905,7 @@ border-color:white;
 
     #mockup6 {
         left: 85px;
-        top: -314px;
+        top: -394px;
     }
 
     #light-background6 {

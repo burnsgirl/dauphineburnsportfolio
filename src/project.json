@@ -2,7 +2,7 @@
     {
         "id":1,
         "mockup": "RecipeGram",
-        "alt": "Something",
+        "alt": "Computer on a kitchen counter looking at a recipe.",
         "overview": "RecipeGram is the go to site for adding and storing your own recipes using a login. You can also view recipes that other uses make public and write reviews.",
         "deployed": "https://recipe-gram-best-team.herokuapp.com/",
         "github": "https://github.com/burnsgirl/Recipe-Gram"
@@ -10,6 +10,7 @@
     {
         "id":6,
         "mockup": "HikeTunez",
+        "alt": "A phone sitting on a rock outside.",
         "overview": "HikeTunez allows you to search for places to hike in your area and customizes a playlist to the difficulty of the hike.",
         "deployed": "https://donchiz77.github.io/Hiketunez",
         "github": "https://github.com/burnsgirl/Hiketunez"
@@ -17,6 +18,7 @@
     {
         "id":5,
         "mockup": "Fitness Tracker",
+        "alt": "A phone sitting next to a dumbell.",
         "overview": "This site was developed so you can keep track of your exercises. It will help you stay on track of how you are doing time wise and weight wise.",
         "deployed": "https://fitnesstracker20212021.herokuapp.com/?id=612ee156e3240b0016a40960",
         "github": "https://github.com/burnsgirl/Fitness-Tracker"
@@ -25,7 +27,7 @@
     
         "id":3,
         "mockup": "Directory",
-        "alt": "Something",
+        "alt": "A computer sitting on a table looking at a list of employees.",
         "overview": "View all your employees in one place. You can access general information about each employee. Use the filter option to sort the employees by age or country. You can also sort them in alphabetical order by last name.",
         "deployed": "https://burnsgirl.github.io/Employee-Directory-2/",
         "github": "https://github.com/burnsgirl/Employee-Directory-2"
@@ -34,7 +36,7 @@
     {
         "id":2,
         "mockup": "Budget Tracker",
-        "alt": "Something",
+        "alt": "A phone on a desk with a budget pulled up next to a pen.",
         "overview": "Keep a budget during your busy lifestyle. Whether you are connected to the internet or offline, you can have an up-to-date spreadsheet. Enter your deposits and withdraws to stay on top of your money.",
         "deployed": "https://budgettracker20212021.herokuapp.com/",
         "github": "https://github.com/burnsgirl/Budget-Tracker"
@@ -42,7 +44,7 @@
     {
         "id":4,
         "mockup": "Work Schedule",
-        "alt": "Something",
+        "alt": "Someone holding an iPad that has a schedule on it.",
         "overview": "A planner that maps out the day in hourly blocks. When the user inputs the data and hits the save button the data is then stored in the local storage on the computer.",
         "deployed": "https://burnsgirl.github.io/Work-Schedule/",
         "github": "https://github.com/burnsgirl/Work-Schedule"
