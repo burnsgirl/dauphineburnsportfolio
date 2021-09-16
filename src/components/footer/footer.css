@@ -32,14 +32,17 @@
 
 @media screen and (max-width:1050px) {
 
-
+    .footer ul {
+        font-size: 18px;
+    }
 
 }
 
 @media screen and (max-width:850px) {
 
+    
 
-    #numberf {
+    /* #numberf {
         position: relative;
         left:44px;
     }
@@ -65,7 +68,7 @@
         position: relative;
         left: 78px;
         top: 30px;
-    } 
+    }  */
 }
 
 @media screen and (max-width:450px) {
