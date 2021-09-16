@@ -12,10 +12,10 @@ function Footer () {
                     <a id="emailf" href="#about">dauphineburns@gmail.com</a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" id="linkedinf">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" target='_blank' id="linkedinf">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="https://github.com/burnsgirl"  id="githubf">GitHub</a>
+                    <a href="https://github.com/burnsgirl"  target='_blank' id="githubf">GitHub</a>
                 </li>
             </ul>
         </div>
