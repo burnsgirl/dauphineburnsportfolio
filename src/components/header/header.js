@@ -29,8 +29,8 @@ function Header() {
                     <ul>
                         <a id="number" href="#about">210-722-1739 |</a>
                         <a id="email" href="#about">dauphineburns@gmail.com |</a>
-                        <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" id="linkedin">LinkedIn |</a>
-                        <a href="https://github.com/burnsgirl"  id="github">GitHub</a>
+                        <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" target='_blankl' id="linkedin">LinkedIn |</a>
+                        <a href="https://github.com/burnsgirl" target='_blankl' id="github">GitHub</a>
                     </ul>
                 </div>
             </div>
