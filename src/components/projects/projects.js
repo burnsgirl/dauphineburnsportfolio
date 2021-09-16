@@ -17,10 +17,10 @@ function Projects (props) {
                     <h1 id={"mockup" + props.id}>{props.mockup}</h1>
                     <div class="links">
                         <a href={props.deployed} target='_blank'>
-                            <button class="btn-deployed">Deployed</button>
+                            <button class="btn-deployed" id={"deployed" + props.id}>Deployed</button>
                         </a>
                         <a href={props.github} target='_blank'>
-                            <button class="btn-github">GitHub</button>
+                            <button class="btn-github" id={"github" + props.id}>GitHub</button>
                         </a>
                     </div>
                 </div>  
