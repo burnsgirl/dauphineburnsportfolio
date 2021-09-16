@@ -28,13 +28,13 @@
 
     #linkedinf {
         position: relative;
-        left: -244px;
+        left: -223px;
         top: 80px;
     }
 
     #githubf {
         position: relative;
-        left: -242px;
+        left: -218px;
         top: 80px;
     }
 }
@@ -48,22 +48,23 @@
 
     #emailf {
         position: relative;
-        left: -13px;
+        left: -52px;
         top: 12px;
     }
 
     #linkedinf {
         position: relative;
-        left: 21px;
-        top: 25px;
+        left: -267px;
+        top: 41px;
     }
     
 
     #githubf {
         position: relative;
-        left: 24px;
-        top: 25px;
-    }
+        left: -247px;
+        top: 43px;
+}
+    
     
 
 }

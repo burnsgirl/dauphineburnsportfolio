@@ -200,27 +200,33 @@ header {
 
     #pic img {
         position: relative;
-        left: 244px;
+        left: 50px;
+        top: 27px;
     }
 
     #name {
-        left: 162px;
+        left: -39px;
         bottom: -37px;
     }
 
+    .navbar-right {
+        bottom: 0px;
+        float:none;
+
+    }
+
     #about {
-        left: -184px;
-        top: 90px;
+        left: -14px;
+        top: 12px;
     }
 
     #aboutme {
         top: 66px;
-        left: 150px;
+        left: -41px;
         width: 400px;
     }
 
     .contact {
-        left: 110px;
         top: 50px;
         width: 450px;
         text-align: center;
