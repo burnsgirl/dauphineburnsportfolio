@@ -21,8 +21,8 @@
 
 /* Overview for cards */
 .overview {
-    width: 190px;
-    height:590px;
+    width: 10px;
+    height:0px;
     text-align:center;
     font-family: 'Roboto', sans-serif;
     color: white;
@@ -40,23 +40,6 @@
     margin: 0px;
     font-size: 50px;
     padding-top:30px;
-}
-
-.mockup {
-    width: 700px;
-    height:600px;
-    border: none;
-}
-
-
-.links {
-    margin-top: 175px;
-    margin-left: 600px;
-    height: 200px;
-    width: 200px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
 }
 
 
@@ -86,41 +69,6 @@ button {
 button:hover {
       transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
 }
-
-#deployed3 {
-    color:white;
-    border-color: white;
-    position: relative;
-    top: -572px;
-}
-
-#github3 {
-    color:white;
-    border-color: white;
-    position: relative;
-    top: -572px;
-}
-
-#deployed2 {
-    color:white;
-    border-color:white;
-}
-
-#github2 {
-    color:white;
-    border-color:white;
-}
-
-#deployed5 {
-    color:white;
-    border-color:white;
-}
-
-#github5 {
-    color:white;
-    border-color:white;
-}
-
 
 
 /* RecipeGram */
@@ -466,12 +414,6 @@ border-color:white;
         margin: 20px 20px;
     }
 
-    .overview {
-        height:600px;
-        width:150px;
-        text-align: center;
-    }
-
     .overview p {
         position: relative;
         top: -100px;
@@ -481,11 +423,6 @@ border-color:white;
         width:500px;
     }
 
-    .links {
-        position: none;
-        right:0px;
-
-    }
 
     /* recipegram */
 
