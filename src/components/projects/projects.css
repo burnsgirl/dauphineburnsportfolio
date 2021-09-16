@@ -42,7 +42,9 @@
     padding-top:30px;
 }
 
-
+.links a {
+    text-decoration: none;
+}
 
 /* Button */
 
@@ -441,7 +443,7 @@ left: -307px;
     }
 
     #mockup1 {
-        left: 166px;
+        left: 298px;
         top: -392px;
     }
 
@@ -457,13 +459,13 @@ left: -307px;
     
 
     #deployed1 {
-        left: -367px;
-        top: -326px;
+        left: 387px;
+        top: -141px;
     }
 
     #github1 { 
-        left: -199px;
-        top: -400px;
+        left: 398px;
+        top: -141px;
     }
 
     /* Directory */
@@ -473,7 +475,7 @@ left: -307px;
     }
 
     #mockup3 {
-        left: -195px;
+        left: -56px;
         top: -409px;
     }
 
@@ -491,13 +493,13 @@ left: -307px;
     }
 
     #deployed3 {
-        left: -719px;
-        top: -297px;
+        left: 26px;
+        top: -149px;
     }
 
     #github3 {
-        left: -548px;
-        top: -370px;
+        left: 36px;
+        top: -149px;
     }
 
     /* Budget Tracker */
@@ -520,18 +522,18 @@ left: -307px;
     }
 
     #mockup2 {
-        left: 166px;
+        left: 305px;
         top: -392px;
     }
 
     #deployed2 {
-        left: -367px;
-        top: -292px;
+        left: 387px;
+        top: -141px;
     }
 
     #github2 {
-        left: -199px;
-        top: -365px;
+        left: 398px;
+        top: -141px;
     }
 
     /* Work Schedule */
@@ -541,7 +543,7 @@ left: -307px;
     }
 
     #mockup4 {
-        left: -189px;
+        left: -50px;
         top: -391px;
     }
 
@@ -554,13 +556,13 @@ left: -307px;
     }
 
     #deployed4 {
-        left: -719px;
-        top: -327px;
+        left: 26px;
+        top: -149px;
     }
 
     #github4 {
-        left: -548px;
-        top: -400px;
+        left: 36px;
+        top: -149px;
     }
 
     #overview4 {
@@ -571,7 +573,7 @@ left: -307px;
     /* Fitness */
 
     #overview5 {
-        left: 412px;
+        left: 411px;
         top: -288px;
     }
     #background5 {
@@ -579,7 +581,7 @@ left: -307px;
     }
 
     #mockup5 {
-        left: 166px;
+        left: 298px;
         top: -392px;
     }
 
@@ -593,19 +595,19 @@ left: -307px;
 
 
     #github5 {
-        left: -367px;
-        top: -402px;
+        left: 398px;
+        top: -141px;
     }
 
     #deployed5 {
-        left: -199px;
-        top: -329px;
+        left: 387px;
+        top: -141px;
     }
 
     /* hiketunez */
 
     #mockup6 {
-        left: -195px;
+        left: -58px;
         top: -370px;
     }
 
@@ -622,13 +624,13 @@ left: -307px;
     }
 
     #github6 {
-        left: -548px;
-        top: -400px;
+        left: 36px;
+        top: -149px;
     }
 
     #deployed6 {
-        left: -719px;
-        top: -327px;
+        left: 26px;
+        top: -149px;
     }
 
     #overview6 {
