@@ -48,35 +48,10 @@
 
 @media screen and (max-width:450px) {
 
-    #numberf {
-        position: relative;
-        left:47px;
+ 
+    .footer ul {
+        font-size: 5px;
     }
-
-    #emailf {
-        position: relative;
-        left: -52px;
-        top: 12px;
-    }
-
-    #linkedinf {
-        position: relative;
-        left: -267px;
-        top: 41px;
-    }
-    
-
-    #githubf {
-        position: relative;
-        left: -247px;
-        top: 43px;
-}
-
-    .footer ul li {
-        margin: 0px 0px;
-}
-
-    
     
 
 }
