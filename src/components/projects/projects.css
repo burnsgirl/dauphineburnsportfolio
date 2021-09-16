@@ -110,16 +110,16 @@ button:hover {
 
 #deployed1 {
     position: relative;
-    top: -372px;
-    left: -8px;
+    top: 380px;
+    left: 184px;
     color: white;
     border-color:white;
 }
 
 #github1 {
     position: relative;
-    top: -445px;
-    left: 157px;
+    top: 380px;
+    left: 198px;
     color: white;
     border-color:white;
 }
@@ -164,16 +164,16 @@ button:hover {
 
 #deployed5 {
     position: relative;
-    top: -372px;
-    left: -8px;
+    top: 380px;
+    left: 184px;
     color: white;
     border-color:white;
 }
 
 #github5 {
     position: relative;
-    top: -445px;
-    left: 157px;
+    top: 380px;
+    left: 198px;
     color: white;
     border-color:white;
 }
@@ -190,7 +190,7 @@ button:hover {
     color: white;
     position: relative;
     left: -296px;
-    top: 222px;
+    top: 205px;
     width: 300px;
 }
 
@@ -219,16 +219,16 @@ button:hover {
 
 #deployed4 {
     position: relative;
-    top: -372px;
-    left: -522px;
+    top: 374px;
+    left: -332px;
     color: white;
     border-color:white;
 }
 
 #github4 {
     position: relative;
-    top: -445px;
-    left: -355px;
+    top: 374px;
+    left: -307px;
     color: white;
     border-color:white;
 }
@@ -273,16 +273,16 @@ opacity: .6;
 
 #deployed6 {
 position: relative;
-top: -372px;
-left: -522px;
+top: 374px;
+left: -332px;
 color: white;
 border-color:white;
 }
 
 #github6 {
 position: relative;
-top: -445px;
-left: -355px;
+top: 374px;
+left: -307px;
 color: white;
 border-color:white;
 }
@@ -327,16 +327,16 @@ opacity: .6;
 
 #deployed2 {
 position: relative;
-top: -372px;
-left: -8px;
+top: 380px;
+left: 184px;
 color: white;
 border-color:white;
 }
 
 #github2 {
 position: relative;
-top: -445px;
-left: 157px;
+top: 380px;
+left: 198px;
 color: white;
 border-color:white;
 }
@@ -382,16 +382,16 @@ border-color:white;
 
 #deployed3 {
     position: relative;
-    top: -372px;
-    left: -522px;
+    top: 374px;
+    left: -332px;
     color: white;
     border-color:white;
 }
 
 #github3 {
     position: relative;
-    top: -445px;
-    left: -355px;
+    top: 374px;
+left: -307px;
     color: white;
     border-color:white;
 }
