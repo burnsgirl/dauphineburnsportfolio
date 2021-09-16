@@ -270,31 +270,31 @@ header {
 
     .contact {
         width:300px;
-        left: -13px;
-        top: -32px;
+        left: -19px;
+        top: 14px;
     }
 
 
     #pic img {
-        left: 60px;
+        left: 45px;
         top: 17px;
     }
 
     #name {
-        left: -3px;
-        bottom: -47px;
+        left: -21px;
+        bottom: -26px;
         font-size:35px;
     }
 
     #about {
-        left: -5px;
-        top: 24px;
+        left: 19px;
+        top: 2px;
         font-size: 20px;
     }
 
     #aboutme {
-        top: -2px;
-        left: 14px;
+        top: 41px;
+        left: 7px;
         width: 300px;
     }
 
