@@ -5,10 +5,18 @@ function Footer () {
     return (
         <div class="footer container">
             <ul>
-                <a id="numberf" href="#about">210-722-1739</a><br/>
-                <a id="emailf" href="#about">dauphineburns@gmail.com</a><br/>
-                <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" id="linkedinf">LinkedIn</a><br/>
-                <a href="https://github.com/burnsgirl"  id="githubf">GitHub</a><br/>
+                <li>
+                    <a id="numberf" href="#about">210-722-1739</a>
+                </li>
+                <li>
+                    <a id="emailf" href="#about">dauphineburns@gmail.com</a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/dauphine-burns-b2b289134/" id="linkedinf">LinkedIn</a>
+                </li>
+                <li>
+                    <a href="https://github.com/burnsgirl"  id="githubf">GitHub</a>
+                </li>
             </ul>
         </div>
     )

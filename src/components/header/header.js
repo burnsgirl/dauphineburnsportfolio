@@ -1,5 +1,6 @@
 import React from 'react';
 import "./header.css";
+import Resume from "../../Dauphine Burns Resume.pdf";
 
 function Header() {
     return (
@@ -17,7 +18,7 @@ function Header() {
                     <ul id="about">
                         <a href="#about">About |</a>
                         <a href="#work">Work |</a>
-                        <a href="./Dauphine Burns Resume.pdf">Resume</a>
+                        <a href={Resume} target="_blank">Resume</a>
                     </ul>
                 </div>
             </nav>
