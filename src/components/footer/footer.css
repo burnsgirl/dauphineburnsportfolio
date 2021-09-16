@@ -17,26 +17,31 @@
 
     #numberf {
         position: relative;
-        left:195px;
+        left:44px;
+    }
+
+    ul {
+        align-items: left;
+        justify-content: left;
     }
 
     #emailf {
         position: relative;
         left: -11px;
-        top: 35px;
+        top: 11px;
     }
 
     #linkedinf {
         position: relative;
-        left: -223px;
-        top: 80px;
+        left: 70px;
+        top: 23px;
     }
 
     #githubf {
         position: relative;
-        left: -218px;
-        top: 80px;
-    }
+        left: 78px;
+        top: 30px;
+    } 
 }
 
 @media screen and (max-width:450px) {
