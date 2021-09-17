@@ -26,7 +26,7 @@ Inspirational and hardworking individual with extensive skills in different appl
 No installation needed.
 
 ## Background
-Experienced Supervisor with a demonstrated history of working in the financial services industry. Skilled in Microsoft Office Suite, WordPress, Adobe Suite, HTML, CSS, JavaScript, Git, responsive design, Express.js, Node.js, SQL, MongoDB, Mongoose, JQuery, AJAX, and Handlebars.js. Strong media and communication professional. Graduated from Minneapolis School of Advertising and Design. Currently expanding my skills and attending the University of North Carolina at Charlotte for full-stack web development.
+Experienced Supervisor with a demonstrated history of working in the financial services industry. Skilled in HTML, CSS, JavaScript, Git, responsive design, React, Express.js, Node.js, SQL, MongoDB, Mongoose, JQuery, AJAX, Microsoft Office Suite, WordPress, Adobe Suite, and Handlebars.js. Strong media and communication professional. Graduated from Minneapolis School of Advertising and Design. Currently expanding my skills and attending the University of North Carolina at Charlotte for full-stack web development.
 
 ## Technologies
 Technologies used: JavaScript, Express, Node.js, HTML, CSS, React
