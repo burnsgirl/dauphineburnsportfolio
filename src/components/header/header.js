@@ -1,6 +1,6 @@
 import React from 'react';
 import "./header.css";
-import Resume from "../../Dauphine Burns Resume.pdf";
+import Resume from "../../Dauphine Burns Web Resume.pdf";
 
 function Header() {
     return (

@@ -7,7 +7,6 @@
 [Deployed](https://burnsgirl.github.io/dauphineburnsportfolio/)   |    [Repo](https://github.com/burnsgirl/dauphineburnsportfolio)
 
 
-
 ## Description
 Inspirational and hardworking individual with extensive skills in different applications with the ability to learn quickly. A very coordinated and well organized individual that looks for areas of opportunity for growth in myself. Great at communicating with others to accomplish a goal or task.
 
