@@ -26,7 +26,7 @@ class App extends Component {
         github={projects.github}
         />
       ))}
-      <Footer />
+      {/* <Footer /> */}
       </>
     )
   }
