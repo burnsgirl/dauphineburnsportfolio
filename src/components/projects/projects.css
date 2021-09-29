@@ -478,14 +478,42 @@ left: -307px;
         width:500px;
     }
 
+    /* Taco Tavern */
+
+    #mockup0 {
+        left: -58px;
+        top: -388px;
+    }
+
+    #background0 {
+        background-position: center;
+    }
+
+    #light-background0 {
+        height: 400px;
+        width: 800px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
+
+    #github0 {
+        left: 36px;
+        top: -149px;
+    }
+
+    #deployed0 {
+        left: 26px;
+        top: -149px;
+    }
+
+    #overview0 {
+        top: -304px;
+        left: 55px;
+    }
 
     /* recipegram */
 
-
-    /* .card:hover {
-        background: rgb(95, 93, 93);
-        display: block;
-    } */
     #background1 {
         background-position: center;
     }
