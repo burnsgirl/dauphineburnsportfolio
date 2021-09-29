@@ -72,6 +72,59 @@ button:hover {
       transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
 }
 
+/* Taco Tavern */
+#background0 {
+    background-image: url("./assetspic/tacotavern.png");
+    background-size: cover;
+}
+
+#overview0 {  
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: -296px;
+    top: 195px;
+    width: 300px;
+}
+
+#mockup0 {
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+color: white;
+text-align: center;
+height: 0px;
+margin: 0px;
+font-size: 50px;
+position: relative;
+left: -321px;
+top: 90px;
+}
+
+#light-background0 {
+height: 490px;
+width: 402px;
+position: relative;
+left: 55px;
+top: 58px;
+background-color: #616161;
+opacity: .6;
+}
+
+#deployed0 {
+position: relative;
+top: 374px;
+left: -332px;
+color: white;
+border-color:white;
+}
+
+#github0 {
+position: relative;
+top: 374px;
+left: -307px;
+color: white;
+border-color:white;
+}
 
 /* RecipeGram */
 #background1 {
