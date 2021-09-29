@@ -763,6 +763,37 @@ left: -307px;
         height: 0px;
     }
 
+    /* Taco Tavern */
+
+    #overview0 {
+        top: -320px;
+        left: 84px;
+
+    }
+
+    #mockup0 {
+        left: 85px;
+        top: -425px;
+    }
+
+    #light-background0 {
+        height: 460px;
+        width: 460px;
+        border-radius:25px;
+        left: 0px;
+        top: 0px;
+    }
+
+    #deployed0 {
+        left: 53px;
+        top: -210px;
+    }
+
+    #github0 {
+        left: 251px;
+        top: -283px;
+    }
+
     /* RecipeGram */
 
     #overview1 {
