@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dauphineburnsportfolio/static/css/main.f4ff529d.chunk.css",
-    "main.js": "/dauphineburnsportfolio/static/js/main.907760eb.chunk.js",
-    "main.js.map": "/dauphineburnsportfolio/static/js/main.907760eb.chunk.js.map",
+    "main.js": "/dauphineburnsportfolio/static/js/main.b9876345.chunk.js",
+    "main.js.map": "/dauphineburnsportfolio/static/js/main.b9876345.chunk.js.map",
     "runtime-main.js": "/dauphineburnsportfolio/static/js/runtime-main.1d7f62d0.js",
     "runtime-main.js.map": "/dauphineburnsportfolio/static/js/runtime-main.1d7f62d0.js.map",
     "static/js/2.7bbbcc38.chunk.js": "/dauphineburnsportfolio/static/js/2.7bbbcc38.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/dauphineburnsportfolio/index.html",
     "static/css/main.f4ff529d.chunk.css.map": "/dauphineburnsportfolio/static/css/main.f4ff529d.chunk.css.map",
     "static/js/2.7bbbcc38.chunk.js.LICENSE.txt": "/dauphineburnsportfolio/static/js/2.7bbbcc38.chunk.js.LICENSE.txt",
-    "static/media/Dauphine Burns Web Resume.c6b09fd4.pdf": "/dauphineburnsportfolio/static/media/Dauphine Burns Web Resume.c6b09fd4.pdf",
+    "static/media/Dauphine Burns Web Resume.725ebba4.pdf": "/dauphineburnsportfolio/static/media/Dauphine Burns Web Resume.725ebba4.pdf",
     "static/media/projects.css": "/dauphineburnsportfolio/static/media/worksched.3f0e750b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1d7f62d0.js",
     "static/js/2.7bbbcc38.chunk.js",
     "static/css/main.f4ff529d.chunk.css",
-    "static/js/main.907760eb.chunk.js"
+    "static/js/main.b9876345.chunk.js"
   ]
 }
