@@ -24,7 +24,7 @@ function Header() {
             </nav>
 
             <div class="aboutmeoverview">
-                <p id="aboutme">Inspirational and hardworking individual with extensive skills in different applications with the ability to learn quickly. A very coordinated and well organized individual that looks for areas of opportunity for growth in myself. Great at communicating with others to accomplish a goal or task.</p>
+                <p id="aboutme">Inspirational and hardworking individual with extensive skills in HTML, CSS, React, and JavaScript. A very coordinated and well organized team player with the ability to learn quickly. Great at communicating with others to accomplish a goal or task.</p>
                 <div class="contact">
                     <ul>
                         <a id="number" href="#about">210-722-1739 |</a>
