@@ -226,6 +226,17 @@ header {
         width: 400px;
     }
 
+    #skills {
+        margin: 0px;
+    }
+
+    #betterWork {
+        display:flex;
+        flex-direction: row;
+        color: rgb(95, 93, 93);
+        align-items: center;
+    }
+
     .contact {
         top: 50px;
         width: 450px;
