@@ -251,10 +251,15 @@ header {
     }
 
     .contact {
-        top: 50px;
+        top: 17px;
         width: 450px;
         text-align: center;
         border-bottom:none;
+    }
+
+    #icons {
+        top: 31px;
+        left: 185px;
     }
 
     #number {
