@@ -101,6 +101,11 @@ header {
 .contact {
     position: relative;
     left: 60px;
+    top: -35px;
+}
+
+#icons {
+    padding: 0px 10px;
 }
 
 .contact a{
@@ -226,15 +231,15 @@ header {
         width: 400px;
     }
 
-    #skills {
+    /* #skills {
         margin: 0px;
-    }
+    } */
 
     #betterWork {
         display:flex;
-        flex-direction: row;
+        /* flex-direction: row; */
         color: rgb(95, 93, 93);
-        align-items: center;
+        /* align-items: center; */
     }
 
     .contact {

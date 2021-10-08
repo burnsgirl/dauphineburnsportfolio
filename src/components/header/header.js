@@ -5,6 +5,7 @@ import Resume from "../../Dauphine Burns Web Resume.pdf";
 function Header() {
     return (
         <header className="container">
+
         <div className="header">
             <div id="pic">
                 <img src="assets/header/me.jpg" alt="Girl with blonde hair standing outside."/>
@@ -26,11 +27,23 @@ function Header() {
             <div className="aboutmeoverview">
                 <p id="aboutme">Inspirational and hardworking individual with extensive skills in HTML, CSS, React, and JavaScript. A very coordinated and well organized team player with the ability to learn quickly. Great at communicating with others to accomplish a goal or task.</p>
                 {/* <img src="assets/header/skills.jpg"></img> */}
-                {/* <div id="betterWork">
-                    <p id="skills"><i class="fab fa-html5 fa-3x"></i>        <i class="fab fa-css3-alt fa-3x"></i>        <i class="fab fa-js-square fa-3x"></i>        <i class="fab fa-react fa-3x"></i>        <i class="fab fa-node-js fa-3x"></i></p>
-               
-                </div> */}
+
+                <div id="betterWork" 
+                style={{display: "flex", 
+                justifyContent: "center", 
+                fontSize: "40px",
+                position: "relative",
+                top: "-27px"
+                }}>
+                    <div id="icons"><i class="fab fa-html5"></i></div>
+                    <div id="icons"><i class="fab fa-css3-alt"></i></div>
+                    <div id="icons"><i class="fab fa-js-square"></i></div>
+                    <div id="icons"><i class="fab fa-react"></i></div>
+                    <div id="icons"><i class="fab fa-node-js"></i></div>
+                </div>
+
                 <div className="contact">
+
                     <ul>
                         <a id="number" href="#about">210-722-1739 |</a>
                         <a id="email" href="#about">dauphineburns@gmail.com |</a>
@@ -41,6 +54,7 @@ function Header() {
                 </div>
             </div>
         </div>
+
     </header>
     )
 }
