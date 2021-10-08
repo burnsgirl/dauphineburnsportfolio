@@ -105,7 +105,10 @@ header {
 }
 
 #icons {
+    position: relative;
+    top: -27px;
     padding: 0px 10px;
+    font-size: 40px;
 }
 
 .contact a{
@@ -158,6 +161,11 @@ header {
         left:-80px;
         border-bottom: 3px solid rgb(95, 93, 93);
         width:600px;
+    }
+
+    #icons {
+        top: -18px;
+        left: 35px;
     }
 
      .aboutmeoverview {

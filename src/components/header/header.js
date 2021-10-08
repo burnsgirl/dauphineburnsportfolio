@@ -31,9 +31,6 @@ function Header() {
                 <div id="betterWork" 
                 style={{display: "flex", 
                 justifyContent: "center", 
-                fontSize: "40px",
-                position: "relative",
-                top: "-27px"
                 }}>
                     <div id="icons"><i class="fab fa-html5"></i></div>
                     <div id="icons"><i class="fab fa-css3-alt"></i></div>
