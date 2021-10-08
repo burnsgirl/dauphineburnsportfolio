@@ -300,7 +300,12 @@ header {
     .contact {
         width:300px;
         left: -19px;
-        top: 14px;
+        top: -18px;
+    }
+
+    #icons {
+        top: 0px;
+        left: 169px;
     }
 
 
